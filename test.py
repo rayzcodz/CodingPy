@@ -1,1 +1,1 @@
-print('Sucess')
+print('Success')
