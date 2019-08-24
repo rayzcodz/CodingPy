@@ -1,7 +1,3 @@
-import sys
-print(sys.version)
-
-
 words = 'DC is the capital of the USA'
 words_list = words.split(' ')
 
