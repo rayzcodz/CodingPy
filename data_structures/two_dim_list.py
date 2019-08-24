@@ -11,7 +11,7 @@ two_dim_list = [
 
 for r in range(5):
     for c in range(3):
-        two_dim_list[r][c] = input('Enter a numbe: ')
+        two_dim_list[r][c] = input('Enter a number: ')
 print(two_dim_list)
 
 print(two_dim_list[1][2])
