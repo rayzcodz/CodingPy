@@ -5,3 +5,5 @@ list_a = [2, 4, 5, 6]
 
 result = list(itertools.permutations(list_a))
 print(result)
+
+
