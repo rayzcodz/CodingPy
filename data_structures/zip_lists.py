@@ -10,3 +10,6 @@ for x, y in zip(list_a, list_b):
 # optional additional practice
 for x, y in zip(zip(list_a, list_b), list_c):
     print(x, y)
+
+print(list_c.extend(list_b))
+
